@@ -2,15 +2,21 @@
 @import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/Addons/ChatBubbles.css);
 @import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/Addons/Icons.css);
 
-
 :root {
     --var-background: linear-gradient(138deg, rgb(148, 8, 8) 0%, rgb(73, 4, 4) 80%, rgb(0, 0, 0) 100%);
     --var-accent: #4b0d0d;
     --var-black1: rgb(0 0 0 / 55%);
     --var-black2: rgb(0 0 0 / 65%);
     --var-notification: #B00020;
-    --var-popout-color: rgb(10 20 20);
+    --var-popout-color: rgb(35 0 0);
 }
+
+/*action buttons on messages*/
+.wrapper-2vIMkT {
+    background-color: rgb(80, 9, 0) !important;
+    border-radius: 4px;
+}
+
 /* Theme info and version */
 .info-3pQQBb:after {
     content: "Glass Wave Theme 1.0";
