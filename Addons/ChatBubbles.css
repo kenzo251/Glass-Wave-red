@@ -1,7 +1,7 @@
 :root {
     --var-chat-bubbles-background: linear-gradient(90deg, rgb(78, 9, 0) 0%, rgb(80, 0, 0) 50%, rgb(49, 0, 0) 100%);
     --var-chat-bubbles-edge-background: rgb(78, 9, 0); 
-    --var-chat-mentioned: rgba(126, 92, 0, 0.438);
+    --var-chat-mentioned: rgba(148, 109, 4, 0.24);
 }
 /*Chat bubbles START */
 .message-2CShn3.groupStart-3Mlgv1 {
