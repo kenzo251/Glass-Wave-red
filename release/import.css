@@ -1,7 +1,3 @@
-@import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/Addons/StatusPicker.css);
-@import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/Addons/ChatBubbles.css);
-@import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/Addons/Icons.css);
-
 :root {
     --var-background: linear-gradient(138deg, rgb(148, 8, 8) 0%, rgb(73, 4, 4) 80%, rgb(0, 0, 0) 100%);
     --var-accent: #4b0d0d;
