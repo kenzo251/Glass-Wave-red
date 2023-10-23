@@ -1,10 +1,8 @@
 @import url(https://elisniper.github.io/Glass-Wave/Addons/StatusPicker.css);
 @import url(https://elisniper.github.io/Glass-Wave/Addons/ChatBubbles.css);
 @import url(https://elisniper.github.io/Glass-Wave/Addons/Icons.css);
-/*@import url("./glass_wave/colorscheme.css");
-@import url("./glass_wave/changes/changes.css");*/
-@import url(https://kenzo251.github.io/Glass-Wave-Red/release/colorscheme.css);
-@import url(https://kenzo251.github.io/Glass-Wave-Red/changes/changes.css);
+@import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/release/colorscheme.css);
+@import url(https://raw.githubusercontent.com/kenzo251/Glass-Wave-red/master/changes/changes.css);
 
 /* Theme info and version */
 .info-3pQQBb:after {
