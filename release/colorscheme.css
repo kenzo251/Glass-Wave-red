@@ -1,0 +1,26 @@
+/*main*/
+:root {
+    --var-background: linear-gradient(138deg, rgb(148, 8, 8) 0%, rgb(73, 4, 4) 80%, rgb(0, 0, 0) 100%);
+    --var-accent: #4b0d0d;
+    --var-black1: rgb(0 0 0 / 55%);
+    --var-black2: rgb(0 0 0 / 65%);
+    --var-notification: #B00020;
+    --var-popout-color: rgb(35 0 0);
+    --var-hover20: rgb(181 181 181 / 20%);
+    --var-hover22: rgb(181 181 181 / 22%);
+    --var-hover25: rgb(181 181 181 / 25%);
+    --var-hover30: rgb(181 181 181 / 30%);
+    --var-hover50: rgb(181 181 181 / 50%);
+    --var-hover80: rgb(181 181 181 / 80%);
+    --var-hover100: rgb(181 181 181 / 100%);
+
+}
+/*------------*/
+/*chat bubbles*/
+:root {
+    --var-chat-bubbles-background: linear-gradient(90deg, rgb(78, 9, 0) 0%, rgb(80, 0, 0) 50%, rgb(49, 0, 0) 100%);
+    --var-chat-bubbles-edge-background: rgb(78, 9, 0); 
+    --var-chat-mentioned: rgba(148, 109, 4, 0.24);
+    --var-jump-to-present: rgb(146, 2, 2);
+}
+/*------------*/
